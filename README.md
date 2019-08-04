@@ -1,4 +1,4 @@
-# Open Source
+# <img src="/imgs/open_source.png" width="28" height="28"> Open Source
 
 ## <img src="/imgs/py_icon.png" width="24" height="24"> [`PyAdb`](https://github.com/sergius-la/adb)
 
