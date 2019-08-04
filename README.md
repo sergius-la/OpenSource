@@ -1,4 +1,4 @@
-# Projects
+# Open Source
 
 ## <img src="/imgs/py_icon.png" width="24" height="24"> [`PyAdb`](https://github.com/sergius-la/adb)
 
